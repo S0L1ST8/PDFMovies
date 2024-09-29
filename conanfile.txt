@@ -1,0 +1,5 @@
+[requires]
+pdf-writer/4.6.7
+
+[generators]
+cmake_multi
